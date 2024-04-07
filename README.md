@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya251&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya251" /> </p>
 
-- 🔭 I’m currently working on [Job Application Rest API<->Springboot](https://github.com/Bhavya251/JobApp)
+- 🔭 I’m currently working on [Job Application Springboot Rest API<->Microservices](https://github.com/Bhavya251/JobAppWithMicroservices)
 
 - 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhavya251](https://github.com/Bhavya251)
 
-- 💬 Ask me about **Python, Java and Automation testing**
+- 💬 Ask me about **Java, Python and Automation testing**
 
 - 📫 How to reach me **bhavyapatel.cs@gmail.com**
 

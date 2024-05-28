@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Patel</h1>
-<h3 align="center">A passionate Developer & QA Analyst from India.</h3>
+<h3 align="center">A passionate Software Developer & QA Analyst from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya251&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya251" /> </p>
 
